@@ -1,0 +1,14 @@
+{
+    "caseSensitive": false,
+    "properties": {
+        "name": "first",
+        "environment": {
+            "type": "noflo-browser"
+        }
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {},
+    "connections": []
+}
